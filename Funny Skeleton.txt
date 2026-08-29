@@ -1,0 +1,3 @@
+#ffffff
+#4883ca
+#ffccf0

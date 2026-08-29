@@ -1,0 +1,9 @@
+#ff0000
+#ffaa00
+#a9ff00
+#00ff00
+#00ffaa
+#00a9ff
+#0000ff
+#aa00ff
+#ff00a9

@@ -1,0 +1,9 @@
+#ffee00
+#f74cfc
+#d700ff
+#8900ff
+#3200ff
+#0040ff
+#0077ff
+#00bcff
+#00fcff

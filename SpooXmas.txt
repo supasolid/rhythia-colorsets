@@ -1,0 +1,6 @@
+#ffffff
+#d4d4d4
+#eca6f6
+#ffb27b
+#7bff7d
+#ff5151

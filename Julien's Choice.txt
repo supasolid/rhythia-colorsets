@@ -1,0 +1,4 @@
+#ff0000
+#ffffff
+#b65cfa
+#00ddff

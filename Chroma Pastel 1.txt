@@ -1,0 +1,9 @@
+#ff6565
+#ffcc65
+#cbff65
+#65ff65
+#65ffcc
+#65cbff
+#6565ff
+#cc65ff
+#ff65cb

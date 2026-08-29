@@ -1,0 +1,3 @@
+#ffffff
+#ff7bea
+#28cafa

@@ -1,0 +1,8 @@
+#ff005a
+#ff00ae
+#ff00f0
+#d800ff
+#ae00ff
+#d800ff
+#ff00f0
+#ff00ae
